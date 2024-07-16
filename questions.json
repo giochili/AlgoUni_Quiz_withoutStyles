@@ -1,0 +1,17 @@
+[
+  {
+    "question": "what is the capital of France ?",
+    "options": ["Berlin", "Madrid", "Paris", "Rome", "Varketili"],
+    "correctAnswer": "Paris"
+  },
+  {
+    "question": "what is the capital of Georgia ?",
+    "options": ["Berlin", "Madrid", "Paris", "Rome", "Tbilisi"],
+    "correctAnswer": "Tbilisi"
+  },
+  {
+    "question": "what is the capital of nlaaaaaaaaaa ?",
+    "options": ["Berlin", "Madrid", "Paris", "Rome", "Tbilisi"],
+    "correctAnswer": "Madrid"
+  }
+]
